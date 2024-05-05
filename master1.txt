@@ -1,7 +1,7 @@
 i am nithya
 <<<<<<< HEAD
-dskdf
+
 =======
- am data engineer
+
 
 >>>>>>> feature2
